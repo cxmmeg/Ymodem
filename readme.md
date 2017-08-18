@@ -1,6 +1,6 @@
-About Source Code:
+#### About Source Code:
 
-> source 	: source code Of Ymodem Protocol Implemention
+ - source 	: source code Of Ymodem Protocol Implemention
 
 ```c
 source --
@@ -20,17 +20,17 @@ porting --
    
 ```
 
-> porting	: Porting file. porting APIs declare in ymodem_export.h, and ymodem_export.c is one implemention for Keil5/STM32. and compile errors exist
-> keil		: keil(v5) project, for STM32 
+ - porting	: Porting file. porting APIs declare in ymodem_export.h, and ymodem_export.c is one implemention for Keil5/STM32. and compile errors exist
+ - keil		: keil(v5) project, for STM32 
 
 ---
 
 
-And Attention:
+#### And Attention:
 
-> the origin source code is from Project\STM32F0xx_IAP Demo Project in ST.com
+ - the origin source code is from Project\STM32F0xx_IAP Demo Project in ST.com
 
-> And you may read the blog-article to known more about Ymodem: [Ymodem协议移植](https://nixlong.github.io/2017/08/14/svm/Ymodem协议移植/#more)
+ - And you may read the blog-article to known more about Ymodem: [Ymodem Procotol Porting](https://nixlong.github.io/2017/08/14/svm/Ymodem%E5%8D%8F%E8%AE%AE%E7%A7%BB%E6%A4%8D/#more)
 
 ---
 
